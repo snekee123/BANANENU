@@ -7,6 +7,7 @@ Download MelonLoader from the following link: [MelonLoader v0.6.6.](https://gith
 Run the game once to generate the necessary files, then exit the game.
 
 ### **Important: To avoid potential issues during installation, consider either excluding Banana Shooter from your antivirus program or temporarily disabling antivirus protection, as MelonLoader may be flagged as a false positive!**
+idk but for some reason my antivirus (Mcafee) quarintines a bunch of important files so just add the root folder to your eclusions.
 
 
 ## Step 2: Install .NET 6.0
