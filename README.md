@@ -1,4 +1,4 @@
-# ~TUTORIAL~
+# - TUTORIAL -
 
 ## Step 1: Install MelonLoader
 
