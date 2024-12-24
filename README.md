@@ -22,6 +22,3 @@ Download BANANENU: [BANANENU by snekee123.](https://github.com/snekee123/BANANEN
 Move BANANENU.dll to your mods folder. (In banana shooter root folder)
 
 ### **Important: for now, every time a new match starts or you join a new server, you will have to disable and re-enable your mods to change the values again!**
-
-Text in the support channel if you have any issues!
-[https://discord.com/channels/1320077217891483718/1320077433713463387](url)
